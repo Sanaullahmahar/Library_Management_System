@@ -19,11 +19,11 @@ A **Java-based Library Management System** with features like:
 
 ### Home Page
 
-<img width="616" height="639" alt="image" src="https://github.com/user-attachments/assets/03d4c12e-7c73-49d5-955a-0c7763ba7844" />
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/b91b4e8d-cbab-4a1d-9526-f69b03af3544" />
 
 ## Login & Registration page
 
-<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/b91b4e8d-cbab-4a1d-9526-f69b03af3544" />
+<img width="616" height="639" alt="image" src="https://github.com/user-attachments/assets/03d4c12e-7c73-49d5-955a-0c7763ba7844" />
 
 ## Books available page
 
