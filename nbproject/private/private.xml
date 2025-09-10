@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/src/java/admin_servlet/editbooks.java</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/src/java/admin_servlet/bookadd.java</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/src/java/DAO/userDAO.java</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/web/mybooks.jsp</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/web/all-component/navbar.jsp</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/src/java/entity/borrowdtls.java</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/src/java/admin_servlet/deleteBooks.java</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/web/admin/home.jsp</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/web/admin/bookborrowed.jsp</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/src/java/DB/DBconnect.java</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/web/admin/allbooks.jsp</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/web/all-component/footer.jsp</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/web/index.jsp</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/web/login.jsp</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/src/java/user_servelet/loginServlet.java</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/web/borrow.jsp</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/src/java/DAO/userDAOimpl.java</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/web/admin/footer.jsp</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/src/java/entity/bookdtls.java</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/web/admin/navbar.jsp</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/web/admin/edit_book.jsp</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/src/java/entity/user.java</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/web/register.jsp</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/src/java/admin_servlet/borrowbook.java</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/src/java/DAO/bookDAOimpl.java</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/web/allbooks.jsp</file>
+            <file>file:/C:/Users/sanaullah/Documents/NetBeansProjects/library/src/java/user_servelet/registerServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
